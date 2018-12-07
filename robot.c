@@ -35,9 +35,9 @@ void robotPrintAscii(void)
   blank = blank +30;
   printf("\n\n"
 	 "UWR: Unidentified Wheeled Robot\n"
-	 "%s    i_i    \n"
+	 "%s    l_l    \n"
 	 "%s   [@_@]   \n"
-	 "%s  /|___|\\ \n"
+	 "%s /|-----|\\ \n"
 	 "%s   d   b   \n",blank, blank, blank, blank);
 
   blank = blank - 10;
